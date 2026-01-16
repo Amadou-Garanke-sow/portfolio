@@ -1,6 +1,6 @@
 # Portfolio – Amadou Garanke SOW
 
-Étudiant en **Master 1 Analyse de Données**, à la recherche d'un **stage / d'une alternance** en **data analysis / data science / data engeneering**.  
+Étudiant en **Master 1 Analyse de Données**, à la recherche d'un **stage / d'une alternance** en **data analysis / data science / data engineering**.  
 Ce portfolio présente une sélection de projets académiques illustrant mes compétences en **analyse statistique**, **exploration de données** et **interprétation des résultats**.
 
 ---
